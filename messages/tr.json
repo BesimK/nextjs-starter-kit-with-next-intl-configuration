@@ -1,0 +1,17 @@
+{
+  "LocaleSwitcher": {
+    "de": "Deutsch",
+    "en": "English",
+    "ar": "العربية",
+    "fa": "فارسی",
+    "he": "עברית",
+    "tr": "Türkçe",
+    "label": "Language"
+  },
+  "Dashboard": {
+    "counter": "Sayaç",
+    "countdown": "Geri Sayım",
+    "seconds": "saniye",
+    "timerRunning": "Zamanlayıcı çalışıyor!"
+  }
+}
